@@ -21,3 +21,6 @@ Task 11 is not completed yet as webdisk server is not working.
 
 Note for the Teacher:
 Unfortunately, I am currently unable to access Metropolia Webdisk because I am not receiving the required verification code in my Outlook email.
+
+**#Javascripts 3
+Task 1 to 6: 2points in each of them**
